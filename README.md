@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 AEROBRAIN AI | Intelligent Aviation Spare Parts Concierge
 
 A futuristic, AI-powered web application designed to automate spare parts procurement, visual identification, and predictive maintenance for aviation businesses.
@@ -35,3 +36,8 @@ This project is designed to be lightweight and easy to deploy.
    git clone https://github.com/7DAM/aerobrain-ai.git
    cd aerobrain-ai
    ```
+=======
+git add README.md
+git commit -m "docs: add professional README for hiring managers"
+git push
+>>>>>>> 80d5e76767ea9390ecb293e44dace9480bd27cee
