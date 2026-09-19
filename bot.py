@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+HTML = r'''<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -2195,4 +2195,7 @@
         }
     </script>
 </body>
-</html>
+</html>'''
+
+if __name__ == '__main__':
+    print(HTML)
